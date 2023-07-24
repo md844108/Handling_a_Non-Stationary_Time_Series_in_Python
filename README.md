@@ -18,7 +18,7 @@ The focus of this task is on the methods for checking stationarity in time serie
   <li>ADF Test</li>
   <li>KPSS Test</li>
   </ol>
-<li>Types of Stationarity<li>
+<li>Types of Stationarity</li>
   <ol>
   <li>Strict Stationary</li>
   <li>Trend Stationary</li>
